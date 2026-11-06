@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/maramjf10">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d55d61&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Maram" alt="Hello! I&#39;m Maram" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=98a869&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Maram" alt="Hello! I&#39;m Maram" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=730&height=44&lines=I%20code%20Sometimes%2C%20and%20i%20design%20some%20other%20time" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=730&height=44&lines=I%20code%20Sometimes%2C%20and%20i%20design%20some%20other%20time" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -45,14 +45,14 @@ Information Technology Graduate
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=maramjf10&show_icons=true&theme=tokyonight&title_color=d55d61&icon_color=d55d61&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=maramjf10&layout=compact&theme=tokyonight&title_color=d55d61&icon_color=d55d61&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=maramjf10&show_icons=true&theme=default&title_color=98a869&icon_color=98a869&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=maramjf10&layout=compact&theme=default&title_color=98a869&icon_color=98a869&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=maramjf10&bg_color=00000000&color=d55d61&line=d55d61&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=maramjf10&bg_color=00000000&color=98a869&line=98a869&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
